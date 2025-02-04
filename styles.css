@@ -43,6 +43,7 @@ header {
   text-align: center;
   gap: 14px;
 }
+
 body,
 header, 
 main,
@@ -63,7 +64,7 @@ header mark {
   border-radius: 4px;
   padding: 2px 4px;
   background: white;
-  colour: #0f172a; 
+  color: #0f172a; 
   
 
 }
